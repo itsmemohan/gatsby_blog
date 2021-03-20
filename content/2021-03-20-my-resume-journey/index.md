@@ -1,7 +1,7 @@
 ---
-title: The Saga of a Resume!
+title: "The Saga of a Resume"
 date: 2021-03-20
-tags: [react, technology, resume]
+tags: [react]
 path: blog/my-resume-journey
 cover: ./resume.jpg
 excerpt: This article describes the journey behind designing my resume.
