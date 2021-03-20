@@ -17,7 +17,7 @@ module.exports = {
   },
   social: {
     github: 'https://github.com/itsmemohan',
-    linkedin: 'https://linkedin.com/itsmemohan',
+    linkedin: 'https://linkedin.com/in/itsmemohan',
     rss: '/rss.xml'
   },
   tags: {
