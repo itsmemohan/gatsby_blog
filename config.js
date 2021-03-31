@@ -4,7 +4,7 @@ module.exports = {
   siteUrl: 'https://itismo.com',
   siteTitle: 'Tech Scrawl',
   siteDescription: 'Trail of a TenderFoot',
-  author: 'Mo',
+  author: 'Mohan Kumar',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: 'https://luigi-colella.disqus.com/embed.js',
